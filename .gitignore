@@ -8,8 +8,9 @@ __pycache__/
 !.env.example
 
 # Agent tool state
-.opencode/
+
 
 # OS
 .DS_Store
 Thumbs.db
+ریزالت/result.zip
